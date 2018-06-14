@@ -1,5 +1,5 @@
 # GrowWithGoogle2018-AndroidDeveloper
-Grow with Google 2018 Android Developer Scholarship Challenge
+Grow with Google 2018 Android Developer Scholarship Challenge Phase 1
 
 January 2018: I was accepted into the Grow with Google Challenge Scholarship - Android Developer Intermediate Track. 
 https://www.udacity.com/grow-with-google
